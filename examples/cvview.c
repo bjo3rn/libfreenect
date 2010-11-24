@@ -1,13 +1,8 @@
 /*
  *  cvview.c
  *  libfreenect
- *
- *  Created by Bjoern Hartmann on 11/22/10.
- *  Copyright 2010 UC Berkeley EECS. All rights reserved.
- *
+ *  Taken from https://gist.github.com/708654
  */
-
-//https://gist.github.com/708654
 
 #include "cv.h"
 #include "highgui.h"
